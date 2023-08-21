@@ -1,0 +1,20 @@
+<resources>
+    <string name="submit">Submit</string>
+    <string name="just_testing">Just testing</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="app_name">Obsidian</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_accound_sign_up">Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="id">Id :</string>
+    <string name="name">Name :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
