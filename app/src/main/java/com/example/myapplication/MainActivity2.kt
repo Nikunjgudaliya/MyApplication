@@ -92,7 +92,7 @@ class MainActivity2 : AppCompatActivity() {
                                     auth.signOut()
                                         val intent = Intent(this, MainActivity::class.java)
                                         startActivity(intent)
-                                }, 3000)
+                                }, 1000)
                             }
                             .addOnFailureListener {
                                 // show message to user when error occurs while saving data
